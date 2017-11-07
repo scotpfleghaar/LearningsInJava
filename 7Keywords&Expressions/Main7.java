@@ -1,4 +1,4 @@
-public class Main {
+public class Main7 {
     public static void main(String[] args) {
       // int int = 5; int is a keyword
       // a mile is equal to 1.609344 Kilometres

@@ -1,4 +1,4 @@
-public class Main {
+public class Main3 {
     public static void main(String[] args) {
         int intValue = 5;
         // Write a variable named floatValue and assign the value of 5.25, make sure to follow the standard practices.

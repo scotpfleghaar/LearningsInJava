@@ -1,4 +1,4 @@
-public class Main {
+public class Main4 {
     public static void main(String[] args) {
        // We are getting an error called "unclosed character literal", char can only have one Character, delete the 2.
         char charValue = 'D';
